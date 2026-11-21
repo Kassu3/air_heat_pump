@@ -1,0 +1,4 @@
+#pragma once
+
+const char *ssid = "Midea_AC_Vastus";
+const char *password = "ilmalampopumppu";
